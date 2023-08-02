@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+hey all i m tahzeeb here i m using node version v19.0.1 and npm version 8.19.2
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
